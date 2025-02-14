@@ -32,5 +32,5 @@
 ---
 
 ## 🌍 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JoanSantos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JoanSantos-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/joan-sebastian-santos-mosquera-ab3a222a8)  
 [![Email](https://img.shields.io/badge/Email-Contactarme-red?style=for-the-badge)](mailto:jhoanowo@gmail.com)  
